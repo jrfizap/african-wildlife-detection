@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# Model weights and the dataset are not published
+*.pt
+*.onnx
+runs/
+wildlife_yolo/
+dataset/
+buffalo/
+elephant/
+rhino/
+zebra/
+.DS_Store
+Thumbs.db

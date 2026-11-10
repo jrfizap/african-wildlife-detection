@@ -1,0 +1,10 @@
+# Written for Google Colab with a GPU runtime, which also provides google.colab (Drive mount).
+# The results were produced with ultralytics 8.3.253 and torch 2.11.0 (CUDA 12.8).
+ultralytics==8.3.*
+torch
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+pyyaml
